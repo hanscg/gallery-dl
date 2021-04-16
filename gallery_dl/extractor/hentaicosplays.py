@@ -15,7 +15,7 @@ from .common import Extractor, Message
 from .. import text
 
 
-class HentaiCosplaysGalleryExtractor(Extractor):
+class HentaicosplaysGalleryExtractor(Extractor):
     """
     Extractor for image galleries from hentai-cosplays.com, hentai-img.com,
     and porn-images-xxx.com
